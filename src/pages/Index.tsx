@@ -2,7 +2,7 @@
 import React from 'react';
 import Header from '@/components/Header';
 import OnboardingSection from '@/components/OnboardingSection';
-import DashboardSection from '@/components/DashboardSection';
+import ProductShowcaseSection from '@/components/ProductShowcaseSection';
 import StatsSection from '@/components/StatsSection';
 import TestimonialSection from '@/components/TestimonialSection';
 import CTASection from '@/components/CTASection';
@@ -14,7 +14,7 @@ const Index = () => {
       <Header />
       <main>
         <OnboardingSection />
-        <DashboardSection />
+        <ProductShowcaseSection />
         <StatsSection />
         <TestimonialSection />
         <CTASection />
