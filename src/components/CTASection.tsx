@@ -34,11 +34,7 @@ const CTASection = () => {
               Schedule Demo
             </Button>
           </div>
-          <img
-            src="/lovable-uploads/7bb8945d-a2a4-4520-b940-f45a363beebd.png"
-            alt="Marketing Automation"
-            className="mt-12 mx-auto max-w-xs sm:max-w-sm md:max-w-md rounded-lg shadow-lg"
-          />
+          
         </div>
       </div>
     </section>
