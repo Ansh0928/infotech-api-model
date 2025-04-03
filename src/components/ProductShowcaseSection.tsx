@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import { MessageCircle, Instagram, Facebook, Users, BarChart, Calendar } from 'lucide-react';
+import { MessageCircle, Instagram, Facebook, Users, BarChart, Calendar, Share2 } from 'lucide-react';
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 
@@ -98,13 +98,13 @@ const ProductShowcaseSection = () => {
               <div className="absolute -inset-1 bg-gradient-to-r from-primary/20 to-primary/40 rounded-2xl blur-xl"></div>
               <div className="relative bg-white p-2 rounded-2xl shadow-xl">
                 <img
-                  src="/lovable-uploads/1e28ddc9-5c14-4ee3-8377-b86bf8d79720.png"
-                  alt="InfoTechBrains Marketing Dashboard"
+                  src="/lovable-uploads/c41952d1-ca6b-4be8-9851-dd01131087ee.png"
+                  alt="InfoTechBrains API Integrations"
                   className="w-full h-auto rounded-xl"
                 />
               </div>
               <div className="absolute -bottom-4 -right-4 bg-primary text-white p-3 rounded-full shadow-lg">
-                <BarChart className="h-6 w-6" />
+                <Share2 className="h-6 w-6" />
               </div>
             </div>
           </div>
