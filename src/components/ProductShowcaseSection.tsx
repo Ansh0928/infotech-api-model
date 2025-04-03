@@ -85,7 +85,7 @@ const ProductShowcaseSection = () => {
                   </li>
                   <li className="flex items-start">
                     <Calendar className="h-5 w-5 text-primary mr-2 flex-shrink-0 mt-0.5" />
-                    <span>Create and schedule content for optimal engagement</span>
+                    <span>Schedule and optimize content for maximum engagement</span>
                   </li>
                 </ul>
                 <Button className="mt-4">Connect Facebook</Button>
@@ -98,8 +98,8 @@ const ProductShowcaseSection = () => {
               <div className="absolute -inset-1 bg-gradient-to-r from-primary/20 to-primary/40 rounded-2xl blur-xl"></div>
               <div className="relative bg-white p-2 rounded-2xl shadow-xl">
                 <img
-                  src="/lovable-uploads/faf00425-bf4c-47e3-98ba-c1c184c9272f.png"
-                  alt="InfoTechBrains Dashboard"
+                  src="/lovable-uploads/1e28ddc9-5c14-4ee3-8377-b86bf8d79720.png"
+                  alt="InfoTechBrains Marketing Dashboard"
                   className="w-full h-auto rounded-xl"
                 />
               </div>
